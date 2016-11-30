@@ -8,4 +8,5 @@ function function_name(argument) {
 
 function function_name(argument) {
   console.log('hello aaaaaaaaaaaaaaaaaaaaaaaaaaa')
+  console.log('hello bbbbbbb')
 }

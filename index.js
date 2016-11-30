@@ -7,5 +7,5 @@ function function_name(argument) {
 }
 
 function function_name(argument) {
-  console.log(foo)
+  console.log('hello aaa')
 }

@@ -7,5 +7,5 @@ function function_name(argument) {
 }
 
 function function_name(argument) {
-  // body...
+  console.log(foo)
 }
